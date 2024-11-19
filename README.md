@@ -1,4 +1,3 @@
-# ESP32-LED-Web-Control-Challenge1
 # LED Control with ESP32 Web Server
 
 This project demonstrates how to control LEDs connected to an ESP32 using a web interface. The project uses the ESP32's Wi-Fi capability to host a web server, allowing users to toggle the state of LEDs via a browser.
